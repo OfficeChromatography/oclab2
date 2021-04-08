@@ -10,7 +10,7 @@ The former [OCLab prototype](https://github.com/OfficeChromatography/OCLab) of a
  
  Additionally, a newly designed printhead was manufactured, 
  controlled by a self-constructed ink-jet board allowing to check the nozzles’ resistance heating circuit. 
- Furthermore, plate heating was enabled, especially favorable when higher volumes of aqueous sample are to 
+ Furthermore, plate heating was enabled, especially favorable when higher volumes of aqueous samples are to 
  be applied. 
  
  The former [OC Manager software](https://github.com/OfficeChromatography/OC_manager) was completely 
