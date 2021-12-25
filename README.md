@@ -21,4 +21,5 @@ The former [OCLab prototype](https://github.com/OfficeChromatography/OCLab) of a
 ### Hardware/Firmware
 The 3D printed parts are in the folder 'Construction Set', the electronic boards are described in the folder 
 'Eagle Files', and the modified firmware is available in the folder 'Marlin'.
+Assembly instructions are in the folder 'Instruction'.
 
